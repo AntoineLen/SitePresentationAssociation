@@ -1,3 +1,9 @@
+/** 
+ * javascript comment 
+ * @Author: Antoine 
+ * @Date: 2020-11-24 23:43:59 
+ * @Desc: function de base pour le fonctionnement des extensions
+ */
 function getOffSet(){
     var _offset = 450;
     var windowHeight = window.innerHeight;
